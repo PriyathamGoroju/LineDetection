@@ -1,5 +1,8 @@
 # Line Detection from Image
 
+## Description
+Line Detection using Hough Transform is a Python project that implements the Hough Transform algorithm to detect lines in an image. This technique is commonly used in computer vision and image processing applications for line detection tasks.
+
 This Python code is designed to detect and group lines from an image. It performs the following steps:
 
 1. Loads an input image and converts it to grayscale.
@@ -17,12 +20,16 @@ This Python code is designed to detect and group lines from an image. It perform
 - NumPy
 - Matplotlib
 
+## Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/line-detection.git
+   ```
 ## Usage
 
-1. Install the required dependencies using the following command:
-```
-pip install opencv-python numpy matplotlib
-```
+1. Install the required dependencies
 2. Place your input image file in the same directory as the code file.
 3. Update the file name in the code to match your input image file.
 4. Customize the threshold values for filtering pixels, grouping slopes, and line segment detection as per your requirements.
