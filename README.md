@@ -25,7 +25,7 @@ This Python code is designed to detect and group lines from an image. It perform
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/line-detection.git
+   git clone https://github.com/PriyathamGoroju/line-detection.git
    ```
 ## Usage
 
